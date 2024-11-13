@@ -1,4 +1,4 @@
-<!-- ![GitHub License](https://img.shields.io/badge/license-MIT)
+![GitHub License](https://img.shields.io/badge/license-MIT)
 
 # My React Portfolio
 
@@ -86,6 +86,6 @@ If you'd like to contribute, please fork the repository and use a feature branch
 
     ## Contributors
 
-###### Justin Mranda-[GitHub](https://github.com/justanda) -[Website](https://justinmirandaportfollio.netlify.app/) -[Email](mailto:miranda.justin93@gmail.com)
+###### Justin Miranda-[GitHub](https://github.com/justanda) -[Website](https://justinmirandaportfollio.netlify.app/) -[Email](mailto:miranda.justin93@gmail.com)
 
---- -->
+---
