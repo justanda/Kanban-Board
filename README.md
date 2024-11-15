@@ -10,7 +10,7 @@ A secure Kanban board application with JWT-based authentication for managing tas
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Mock-Up](#mock-up)
+- [Demo](#demo)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
